@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BLE Scanner</string>
+
+    <string name="ble_devices_activity_title">Nearby BLE Devices</string>
+    <string name="btn_scan_ble_devices">Scan BLE Devices</string>
+    <string name="btn_exit">Exit</string>
 </resources>

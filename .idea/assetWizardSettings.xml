@@ -33,7 +33,9 @@
                                   </option>
                                   <option name="values">
                                     <map>
-                                      <entry key="foregroundImage" value="C:\Users\Net2\Desktop\bluetooth-myths-670x335.jpg" />
+                                      <entry key="backgroundAssetType" value="COLOR" />
+                                      <entry key="backgroundColor" value="3d527e" />
+                                      <entry key="foregroundImage" value="C:\Users\Net2\Desktop\ble_scanner_icon.png" />
                                     </map>
                                   </option>
                                 </PersistentState>
